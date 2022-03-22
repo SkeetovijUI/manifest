@@ -24,3 +24,4 @@ $ lunch aosp_$device-userdebug
 # Build the code
 $ mka bacon -jX
 ```
+Заходишь такой на вапдомик а там скит лысый пляшет
